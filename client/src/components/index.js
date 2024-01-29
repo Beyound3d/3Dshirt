@@ -1,2 +1,2 @@
-import Custombutton from "./CustomButton";
-export {Custombutton};
+import CustomButton from "./CustomButton";
+export { CustomButton };
